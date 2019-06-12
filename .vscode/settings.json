@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Python37\\python.exe",
+    "python.testing.pyTestArgs": [
+        "每日一练"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": true
+}
